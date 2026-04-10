@@ -39,6 +39,8 @@ User Query
 - Cross-Encoder Models (Reranking)
 - Anthropic / OpenAI (LLMs)
 - Streamlit (UI)
+## Demo
+![UI Demo](docs/ui_demo.png)
 
 ## How It Works
 
