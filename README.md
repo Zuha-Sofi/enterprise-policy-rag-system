@@ -16,6 +16,9 @@ User Query
 → JSON Output with Citations  
 → Answer Validation + Safe Fallback
 
+## Architecture
+![Architecture](docs/architecture.png)
+
 ## Key Features
 
 - Hybrid retrieval combining semantic search (embeddings) and lexical search (BM25)
