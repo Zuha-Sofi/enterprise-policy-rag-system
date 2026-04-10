@@ -17,7 +17,7 @@ User Query
 → Answer Validation + Safe Fallback
 
 ## Architecture
-![Architecture](docs/architecture.png)
+![Architecture](docs/Architecture.png)
 
 ## Key Features
 
